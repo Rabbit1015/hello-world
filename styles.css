@@ -8,3 +8,8 @@ body {
   p {
     color: red;
   }
+
+footer {
+    background-color: darkblue;
+    color: white;
+}

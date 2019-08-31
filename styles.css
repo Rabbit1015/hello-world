@@ -13,3 +13,9 @@ footer {
     background-color: darkblue;
     color: white;
 }
+
+.top-bar {
+    background-color: whitesmoke;
+    height: 50px;
+    width: auto;
+}

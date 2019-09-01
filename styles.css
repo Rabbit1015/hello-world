@@ -2,7 +2,7 @@ body {
     background-color: powderblue;
   }
   h1 {
-    color: white;
+    color: blue;
     align-content: center;
   }
   p {
@@ -14,8 +14,10 @@ footer {
     color: white;
 }
 
-.top-bar {
-    background-color: whitesmoke;
-    height: 50px;
-    width: auto;
-}
+.header {
+    padding: 60px;
+    text-align: center;
+    background: #1abc9c;
+    color: white;
+    font-size: 30px;
+  }
